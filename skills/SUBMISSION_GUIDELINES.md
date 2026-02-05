@@ -1,4 +1,4 @@
-## OpenClaw Builder Showcase – Submission Guidelines
+## Agent Install Showcase – Submission Guidelines
 
 - Listings are informational only.
 - This is a directory, not an app store.
